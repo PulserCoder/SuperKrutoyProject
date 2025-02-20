@@ -1,1 +1,1 @@
-print("hfsjdhfksdfsj")
+print("коммит 1")
